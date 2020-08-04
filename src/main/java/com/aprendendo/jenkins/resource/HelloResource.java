@@ -9,7 +9,7 @@ public class HelloResource {
     
     @GetMapping("")
     public String hello (){
-        return "outra mensagem";
+        return "teste";
     }
     
 }
